@@ -1,0 +1,44 @@
+h1, h2	{
+	text-align: center;
+
+}
+
+*	{
+	padding: 10px;
+}
+
+.izq {
+	float: left;
+	max-width: 200px;
+	margin: 0;
+	padding: 1em;
+}
+
+.der {
+	margin-left: 200;
+	border-left: 1px solid gray;
+	padding: 1em;
+	overflow: hidden;	
+}
+
+ul {
+	list-style-type: none;	
+	margin: 0;
+}
+
+#this {
+	list-style-type: circle;
+}
+
+.der img {
+	width: 1000px;
+	height: 600px;
+}
+
+.der p{
+	text-align: justify;
+	font-size: 20px;
+	font-family: Lato;
+}
+
+
